@@ -1,0 +1,9 @@
+node_modules
+.vscode
+practice
+tailwind.config.js
+input.css
+.DS_Store
+main.js
+app.js
+articles.json
